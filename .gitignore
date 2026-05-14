@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+/anfall-visiten/
+/patienten-visiten/
+/patienten-app-only.csv
+/anfall-app-only.csv
